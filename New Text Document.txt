@@ -1,0 +1,24 @@
+https://howtomechatronics.com/tutorials/arduino/how-to-control-ws2812b-individually-addressable-leds-using-arduino/
+https://randomnerdtutorials.com/guide-for-ws2812b-addressable-rgb-led-strip-with-arduino/
+
+Color Modes:
+--static--
+*color
+
+-breathing
+*colors
+*speed
+
+-pulse: like breathing but instead of fading in, jumping in
+
+-cross-fading between colors
+*colors
+*speed
+
+
+-marquee (a background color, then x number of LEDs that scroll around the strip. "comet effect" - tail of led fades at the tail
+*forwards abnd backwards
+-covering marquee (like marquee but multiple colors
+
+-spectrum wave: like covering marquee but with all colors rainbow!
+-alternating
